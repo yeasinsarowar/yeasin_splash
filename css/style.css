@@ -1,0 +1,77 @@
+/*font-family: 'Lato', sans-serif;*/
+/*font-family: 'Dosis', sans-serif;*/
+/*font-family: 'Sniglet', cursive;*/
+
+
+body{
+font-family: 'Dosis', sans-serif;
+	background-image: url(../image/body.png);
+}
+/*header start*/
+header{
+	background-color: #ffd338;
+}
+.menu{}
+.menu ul li a {
+	font-weight: 700;
+	font-size: 18px;
+	color:#fff !important;
+	padding: 0 17px !important;
+	transition: .5s;
+	border-radius: 20px;
+
+}
+.menu ul li a:hover{
+	background-color: #f05c5c;
+}
+.btn-custom{
+	color: white;
+}
+.btn-custom:focus{
+    outline: 0;
+     box-shadow: 0 0 0 0.2rem rgba(255, 71, 0, 0.95);
+}
+
+
+.btn-custom:hover {
+    color:  #f05c5c;
+    text-decoration: none;
+}
+/*header end*/
+/*banner start*/
+.banner{
+	background-image: url(../image/bg.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+    background-size: cover;
+}
+.banner_text{}
+.banner_text h1{
+	font-weight: 700;
+	font-size: 35px;
+	margin-top: 239px;
+	margin-bottom: 307px;
+	color: #1ec0ff;
+}
+.scroll{
+
+}
+.scroll p{
+	font-weight: 54px;
+	color:#f0f0ee;
+
+}
+.scroll i{}
+
+
+
+	      
+/*banner end*/
+
+
+
+
+
+
